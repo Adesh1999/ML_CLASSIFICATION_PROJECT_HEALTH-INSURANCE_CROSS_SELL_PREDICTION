@@ -2,7 +2,8 @@
 
 Project type - Classification
 
-Project Summary -
+# Project Summary -
+
 • In this project through Exploratory Data Analysis,we are going to observe that which customers belonging to young Age are more interested in vehicle response.while who are not intrested.
 
 We are going to observe that intrest of buying vehicles indurance over varying years. Similarly, customers having damaged vehicles are interested in vehicle insurance or not.
@@ -15,10 +16,11 @@ We are going to observe that intrest of buying vehicles indurance over varying y
 
 • Further, we have to apply Machine Learning Algorithms to determine whether a customer would be intere sted in Vehicle Insurance. .we are going to find the best fit model for prediction and better ccuracy
 
-GitHub Link -
+# GitHub Link -
 https://github.com/Adesh1999/ML_CLASSIFICATION_PROJECT_HEALTH-INSURANCE_CROSS_SELL_PREDICTION
 
-**Problem Statement**
+# Problem Statement
+
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
 An insurance policy is an arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for the payment of a specified premium. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
@@ -31,7 +33,8 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
-Define Your Business Objective?
+# Define Your Business Objective?
+
 As an insurance policy is an arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for the payment of a specified premium. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
 
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
@@ -40,7 +43,8 @@ As we already know that medical insurance, there is vehicle insurance where ever
 
 So to know whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel)
 
-**Attribute Information**
+# Attribute Information
+
 id : Unique ID for the customer
 
 Gender : Gender of the customer
